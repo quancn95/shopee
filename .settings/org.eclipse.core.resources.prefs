@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ofw/group14/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/com/ofw/group14/config/UrlLocaleInterceptor.java=UTF-8
+encoding//src/main/java/com/ofw/group14/controller/AjaxApiController.java=UTF-8
+encoding//src/main/java/com/ofw/group14/entity/Auth.java=UTF-8
+encoding//src/main/java/com/ofw/group14/javaapplication/GetTime.java=UTF-8
+encoding//src/main/java/com/ofw/group14/javaapplication/SendHtmlEmbedImageEmail.java=UTF-8
+encoding//src/main/webapp/WEB-INF/frontend/home.jsp=UTF-8
